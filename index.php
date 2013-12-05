@@ -32,8 +32,49 @@
     mature enough and the compiler is relatively stable, this site will replace itself with a proper web app which will<br />
     include the language standard(completely rewritten, a structured paper), a friendly documentation, a bug tracker,<br />
     a mail group, the project source, milestones, a discussion platform and a blog.</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Goal</th>
+                <th></th>
+                <th>Deadline</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nest Batch Iteration Post</td>
+                <th></th>
+                <td>Dec 2013</td>
+            </tr>
+            <tr>
+                <td>Compiler Alpha Version</td>
+                <th></th>
+                <td>Jan 2014</td>
+            </tr>
+            <tr>
+                <td>Paper</td>
+                <th></th>
+                <td>Jan 2014</td>
+            </tr>
+            <tr>
+                <td>Project Site</td>
+                <th></th>
+                <td>Feb 2014</td>
+            </tr>
+            <tr>
+                <td>First Language Standard</td>
+                <th></th>
+                <td>Apr 2014</td>
+            </tr>
+            <tr>
+                <td>Fully Compliant Compiler</td>
+                <th></th>
+                <td>Jun 2014</td>
+            </tr>
+        </tbody>
+    </table>
     <p>Doppl is created and actively developed by <a href="http://dperini.com">Diego Perini</a>.</p>
-    <p>Last updated: 2013-11-18</p>
+    <p>Last updated: 2013-12-05</p>
     <p>All rights reserved.</p>
 </body>
 </html>
