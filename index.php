@@ -42,7 +42,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>Nest Batch Iteration Post</td>
+                <td>Next Batch Iteration Post</td>
                 <th></th>
                 <td>Dec 2013</td>
             </tr>
